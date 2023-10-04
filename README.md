@@ -11,4 +11,8 @@ Conflict 2
 
 New code added in 2 new
 
+New code added in 3 new
+
+New code added in 4 new
 Conflict 1
+
